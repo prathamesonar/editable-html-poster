@@ -15,7 +15,7 @@ This project was built as a solution for the Frontend Engineer Evaluation Task.
 
 1.  Clone the repository:
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/prathamesonar/editable-html-poster.git
     cd editable-html-poster
     ```
 
@@ -76,7 +76,7 @@ This application is built using Next.js (App Router), TypeScript, and Tailwind C
 * **D (Dependency Inversion Principle):**
     Components do not depend on each other. The `Toolbar` does not know about the `Stage`. Instead, both depend on the `useEditorStore` abstraction. When the `Toolbar` calls `addElement()`, the store updates, and the `Stage` (which also depends on the store) reacts to the change.
 
-## ⚠️ Known Limitations & Improvements
+##  Known Limitations & Improvements
 
 * **HTML Parsing:** The current parser is basic. It expects a single `.poster` element (or `body`) and a single `<style>` tag. It will not work well with complex, multi-level HTML documents.
 * **Styling:** Only inline styles and a single `<style>` block are supported. External stylesheets (`<link>`) are not fetched or applied.
