@@ -12,7 +12,7 @@ This project was built as a solution for the Frontend Engineer Evaluation Task.
 | ---------------------------------------------------- | ------------------------------------------------------ |
 | ![Home Page](https://github.com/user-attachments/assets/6cdb250d-31d8-4916-a041-8bbc2ade1b85) | ![image-properties](https://github.com/user-attachments/assets/b804933b-fc48-4d3e-8344-070af53f950d) |
 
-| Text Editing                                     | Editor                                     |
+| Text Editing                                     | Image Editing                                    |
 | ------------------------------------------------- | ------------------------------------------------------ |
 | ![text-editing)](https://github.com/user-attachments/assets/e6aebdcf-d814-48de-8a34-3fc585c921df) | ![full-editor-demo](https://github.com/user-attachments/assets/93612561-dc2e-4284-9ec6-3d5850da6b56) |
 
