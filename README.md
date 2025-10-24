@@ -3,7 +3,30 @@
 This is a web application, built with Next.js and TypeScript, that allows a user to import an HTML file, visually edit its content (text, images, and layout), and export the modified HTML.
 
 This project was built as a solution for the Frontend Engineer Evaluation Task.
+---
+##  Features
 
+-   **Import HTML:** Load an existing `.html` file or paste raw HTML.
+-   **Visual Editing:** Drag and drop elements to reposition them.
+-   **Inline Text Editing:** Double-click text elements (`<h1>`, `<p>`, etc.) to edit content.
+-   **Property Inspector:** Select an element to edit its properties:
+    -   **Text:** Change font size, color, and weight.
+    -   **Images:** Update the `src`, `alt` text, width, and height.
+-   **Add Elements:** Add new text blocks and images to the canvas.
+-   **Delete Elements:** Remove any selected element.
+-   **Export HTML:** Download the modified DOM as a complete `.html` file.
+
+---
+## 🛠️ Tech Stack
+
+-   **Framework:** Next.js (App Router)
+-   **Language:** TypeScript
+-   **Styling:** Tailwind CSS
+-   **State Management:** Zustand
+-   **Drag & Drop:** React-Draggable
+-   **HTML Sanitization:** DOMPurify
+
+---
 ##  Getting Started
 
 ### 1. Prerequisites
