@@ -122,7 +122,7 @@ This application is built using Next.js (App Router), TypeScript, and Tailwind C
 
 ---
 
-##  Known Limitations & Improvements
+##  Limitations & Improvements
 
 * **HTML Parsing:** The current parser is basic. It expects a single `.poster` element (or `body`) and a single `<style>` tag. It will not work well with complex, multi-level HTML documents.
 * **Styling:** Only inline styles and a single `<style>` block are supported. External stylesheets (`<link>`) are not fetched or applied.
