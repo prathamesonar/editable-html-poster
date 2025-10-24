@@ -5,6 +5,11 @@
 This project was built as a solution for the Frontend Engineer Evaluation Task.
 
 ---
+
+##  Live Demo
+
+* **Frontend (Vercel):** [https://html-poster-editor-pas.vercel.app](https://html-poster-editor-pas.vercel.app)
+---
 ##  Screenshots
 
 
